@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxam.GreenDao.Droid", "Naxam.GreenDao.Droid\Naxam.GreenDao.Droid.csproj", "{260CB461-021D-4117-B6D9-E03516F59AD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demo", "demo", "{EBCC1734-76FE-4920-81E3-30AE1920C9F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenDaoQs", "demo\GreenDaoQs\GreenDaoQs.csproj", "{C6A50799-CD61-415E-9586-5BBC2AF141AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260CB461-021D-4117-B6D9-E03516F59AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260CB461-021D-4117-B6D9-E03516F59AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260CB461-021D-4117-B6D9-E03516F59AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260CB461-021D-4117-B6D9-E03516F59AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A50799-CD61-415E-9586-5BBC2AF141AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A50799-CD61-415E-9586-5BBC2AF141AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A50799-CD61-415E-9586-5BBC2AF141AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A50799-CD61-415E-9586-5BBC2AF141AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C6A50799-CD61-415E-9586-5BBC2AF141AE} = {EBCC1734-76FE-4920-81E3-30AE1920C9F3}
+	EndGlobalSection
+EndGlobal
